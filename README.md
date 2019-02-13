@@ -91,7 +91,13 @@ para tentar realizar o login no endereço: ```url.com.br``` com o email já
 conhecido: ```test@email.net``` com o protocolo ```https-form-post```, e as opções adicionais, 
 neste caso parâmetros do formulário(usuário e senha) e mensagem de sucesso. 
 
+[Clique aqui](https://github.com/fernandasj/sgd-atividade-criptoanalise-brute-force/tree/master/demo) para visualizar demonstração de uso para cada ferramenta acima.
+
 ## Equipe:
 * [Fernanda Vieira](https://github.com/fernandasj) 
 
 * [Rogério Araújo](https://github.com/rodgeraraujo) 
+
+
+
+**AVISO**: Apenas para fins educacionais! Esteja ciente disso! Não somos responsáveis pela forma como você faz usa de alguma dessas ferramentas.
